@@ -4,7 +4,7 @@
 
 ## **Project Overview**
 
-This project implements a predictive model for **breast cancer diagnosis** using **Gradient Boosting Machines (GBM)** with scikit-learn.
+This project implements a predictive model for breast cancer diagnosis using Gradient Boosting Machines (GBM) with scikit-learn.
 The workflow includes:
 
 * Dataset selection and **Exploratory Data Analysis (EDA)**
@@ -198,3 +198,4 @@ These images can be used for presentations, reports, or further analysis.
 This README is **ready to use for GitHub submission** and provides **all the instructions to run your code, generate images, and understand the project workflow**.
 
 ---
+
